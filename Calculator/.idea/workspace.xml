@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f13c1c40-90f5-420e-ae77-3602f4cd2d6f" name="Changes" comment="" />
+    <list default="true" id="11df372c-2975-429a-bcb1-673950816658" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2DDlB3Ft8cQdcBNI3w2SRWWZ7IH" />
+  <component name="ProjectId" id="2DDmZa02ah1mC7jloJ6hl20x0kk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,28 +32,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
-      <module name="Przyklad" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.main" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f13c1c40-90f5-420e-ae77-3602f4cd2d6f" name="Changes" comment="" />
-      <created>1660241397952</created>
+      <changelist id="11df372c-2975-429a-bcb1-673950816658" name="Changes" comment="" />
+      <created>1660242087167</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1660241397952</updated>
+      <updated>1660242087167</updated>
     </task>
     <servers />
   </component>
