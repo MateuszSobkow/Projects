@@ -66,14 +66,23 @@ public class Items {
     int getId(){
         return id;
     }
+   LocalDate getBorrowDate(){
+        return borrowDate;
+   }
+   LocalDate getReturnDate(){
+        return returnDate;
+   }
    int getPrice(){
         return price;
    }
    int getItemsAmount(){
         return itemsAmount;
    }
-    void setItemsAmount(int borrowingAmount){
+   void setItemsAmount(int borrowingAmount){
         this.itemsAmount -= borrowingAmount;
+    }
+    String getName(){
+        return name;
     }
 
 }
