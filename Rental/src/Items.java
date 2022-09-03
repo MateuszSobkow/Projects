@@ -7,7 +7,9 @@ public class Items {
     private String author, name, fileFormat;
     private Time duration;
 
-    public Items(){}
+    public Items() {
+        System.out.println("Empty item");
+    }
 //      Book
     public Items(String name,String author, int pageNumber, int price, int itemsAmount){
         this.id = setId();
@@ -22,6 +24,7 @@ public class Items {
     }
 //    Audiobooks
     public Items(String name, String author, String fileFormat, int price, int itemsAmount){
+        super();
         this.id = setId();
         this.borrowDate = LocalDate.now();
         this.returnDate = borrowDate.plusDays(20);
@@ -43,6 +46,9 @@ public class Items {
         this.itemsAmount = itemsAmount;
 
     }
+
+
+
     void getAll(){
         System.out.println("Name: " + this.name);
         System.out.println("ID: " + this.id);

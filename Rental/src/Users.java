@@ -6,11 +6,13 @@ public class Users extends Items{
     private String name, surname, address;
     private int age, numberOfBorrowedItems;
 
-    Users(){
-        System.out.println("Empty user");
-    }
+  Users(){
+      System.out.println("Empty client");
+  }
      Users(String name, String surname, String address, int age){
-        this.name = name;
+         super();
+
+         this.name = name;
         this. surname = surname;
         this. age = age;
         this.address = address;
