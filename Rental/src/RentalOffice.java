@@ -1,6 +1,6 @@
 import java.sql.Time;
 
-public class RentalOffice extends Users {
+public class RentalOffice {
 
     public static void main(String[] args) {
 
